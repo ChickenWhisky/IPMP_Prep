@@ -1,4 +1,8 @@
 - [ ] **2Sum with sorted input :** [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
     -**Problem Type : Medium**
-- [ ] **2Sum with sorted input :** [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [ ] **3sum :** [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+    -**Problem Type : Medium**
+- [ ] **Subsets :** [Problem Link](https://leetcode.com/problems/subsets/description/)
+    -**Problem Type : Medium**
+- [ ] **Combination Sum :** [Problem Link](https://leetcode.com/problems/combination-sum/description/)
     -**Problem Type : Medium**
